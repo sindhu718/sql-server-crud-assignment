@@ -1,0 +1,1 @@
+This folder contains MongoDB CRUD operation scripts for the assignment

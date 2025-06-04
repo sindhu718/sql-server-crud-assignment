@@ -1,0 +1,1 @@
+db.people.deleteOne({ name: "Sanjay the Great" })

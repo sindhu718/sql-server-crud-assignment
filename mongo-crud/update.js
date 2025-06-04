@@ -1,0 +1,1 @@
+db.people.updateOne({ name: "Sanjay" }, { $set: { name: "Sanjay the Great" } })

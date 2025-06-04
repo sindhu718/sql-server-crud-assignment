@@ -1,0 +1,1 @@
+db.people.insertOne({ name: "Sanjay" })
